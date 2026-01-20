@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Config>
+﻿<Config>
     <CustomTriggers>
         <Trigger Active="True" Regex="Your attempt at completing ?(?&lt;quest&gt;.+) starts now! ?(?&lt;time&gt;.+) remaining!" SoundData="Quest, $1. $2" SoundType="3" CategoryRestrict="False" Category="   HUNT" Timer="False" TimerName="" Tabbed="False" />
         <Trigger Active="True" Regex="(?&lt;player&gt;\w+) as no fighters kept their Rampant Aggression in check" SoundData="Watch hate $1" SoundType="3" CategoryRestrict="False" Category=" Bulwark" Timer="False" TimerName="" Tabbed="False" />
